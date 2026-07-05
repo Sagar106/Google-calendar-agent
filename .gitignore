@@ -1,0 +1,89 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Secrets / env
+.env
+.env.*
+secrets.yml
+credentials.json
+client_secret.json
+token.json
+token.pickle
+
+# Google service account keys
+*.json
+
+# Node modules (if any)
+node_modules/
+
+# Generated files
+__pycache__/
+
+# Ignore JetBrains project files
+.idea/
+
+# Ignore coverage and build artifacts
+coverage.xml
+*.egg-info/
+dist/
+
+# Local settings
+local_settings.py
+
+# Database
+*.sqlite3
+
+# Runtime files
+*.pid
+*.seed
+
+# Backup files
+*~
+*.swp
+
+# End of file
