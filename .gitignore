@@ -57,6 +57,7 @@ token.pickle
 
 # Google service account keys
 *.json
+!package.json
 
 # Node modules (if any)
 node_modules/
