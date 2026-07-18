@@ -9,6 +9,7 @@
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "start": "npm run build && node dist/server.js",
+    "start:index": "npm run build && node dist/index.js",
     "dev": "tsc -p tsconfig.json --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
